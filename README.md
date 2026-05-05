@@ -1,4 +1,5 @@
 千葉大輔の解析用レポジトリです
+藤本さんのパッケージをベースに作成しています
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # blvibmjp
