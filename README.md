@@ -1,4 +1,4 @@
-
+千葉大輔の解析用レポジトリです
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # blvibmjp
